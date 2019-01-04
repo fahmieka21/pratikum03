@@ -1,2 +1,1 @@
 # pratikum09
-1
